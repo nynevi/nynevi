@@ -34,7 +34,8 @@ I architect the reusable substrate beneath production software: component librar
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-Also production-deep in: Angular (8+ Universal), Vue/Nuxt, Node, Express, NestJS, PHP (Slim, Laravel), MySQL/PostgreSQL/MongoDB, WebRTC/WebSockets/Wowza, Solidity/web3.js (Bitcoin Cash). Tooling I lean on daily: Cursor, Claude Code, MCP, n8n, LangChain.
+Also production-deep in: Angular (8+ Universal), Vue/Nuxt, Node, Express, NestJS, PHP (Slim, Laravel), MySQL/PostgreSQL/MongoDB, WebRTC/WebSockets/Wowza, Solidity/web3.js (Bitcoin Cash).
+Tooling I lean on daily: Cursor, Claude Code, MCP, n8n, LangChain.
 
 ## Tenets
 
